@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=CpmQc1aTDpA
 - https://inductive-kickback.com/projects/nanokeys/
 - https://github.com/bitbank2/BLE_Keyboard/blob/master/BLE_Keyboard.ino
 
-### Ergodone 
+### Ergodone
 
 
 ### other useful info
