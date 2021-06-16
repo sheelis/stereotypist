@@ -10,10 +10,10 @@ In combination with the chest phone holder running VNC or SSH, this could be a v
 
 ## Functions 
 
-- CONNS
+- CONNECTIONS
   - switch between 5 BT devices to control
     - must have good range!
-  - wifi chip allows to upload new config files and talk to web
+  - WIFI chip allows to upload new config files and talk to web
   - cable - maybe needed for bios stuff?
 
 - BUILD
@@ -34,7 +34,7 @@ In combination with the chest phone holder running VNC or SSH, this could be a v
     - report battery status to main OS
 
 - MOUSING
-  - trackpad, clit, or some other cursor move feature (just a mouse laser?)
+  - track pad, clit, or some other cursor move feature (just a mouse laser?)
   - joystick for scroll, pan, zoom - *programmable*
 
 - KEYS
@@ -45,7 +45,7 @@ In combination with the chest phone holder running VNC or SSH, this could be a v
 
 - FEEDBACK
   - MINI OLED
-    - battery, device, mode, wifi
+    - battery, device, mode, WIFI
   - LED
     - ON/OFF - always on
       - show mode - color (RGB)
@@ -63,7 +63,7 @@ In combination with the chest phone holder running VNC or SSH, this could be a v
   - small led flashlight for each side
     - adjustable angle and color
   - custom keys for each hand (combine with F keys) *programmable*
-    - key to start and stop a new note and save it over wifi or locally on SD card?
+    - key to start and stop a new note and save it over WIFI or locally on SD card?
     - assign a web task to a button (run a url)
     - run a command
 
@@ -77,6 +77,7 @@ https://www.youtube.com/watch?v=CpmQc1aTDpA
 
 ### Pro micro
 
+- an arduino that can be set to HID mode over USB
 
 ### ESP-32 - BT
 
@@ -96,6 +97,7 @@ https://www.youtube.com/watch?v=CpmQc1aTDpA
 
 ### Ergodone
 
+- marketed split keyboard with some customization
 
 ### other useful info
 
